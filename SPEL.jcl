@@ -1,4 +1,4 @@
-//SPELJOB     JOB ,'Xander',CLASS=A,MSGCLASS=A,MSGLEVEL=(1,1)
+//SPELJOB     JOB ,'Your Name',CLASS=A,MSGCLASS=A,MSGLEVEL=(1,1)
 //*-------------------------------------
 //*  Step 1 - Compile the COBOL Program
 //*-------------------------------------
